@@ -68,7 +68,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>${org.springframework.boot.version}</version>
 				<configuration>
-					<mainClass>${mainClass}</mainClass>
 					<jvmArguments>
 						--add-opens java.base/java.util=ALL-UNNAMED
 						--add-opens java.base/jdk.internal.misc=ALL-UNNAMED
