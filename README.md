@@ -8,7 +8,11 @@ Blog-Article: [Minimize Costs by Utilizing Cloud Storage with Spring-Data-Eclips
 
 ## Requests for Demo
 ### Create new owner
-```curl --request POST --header "Content-Type: application/json" --data "{\"firstName\":\"Stevie\",\"lastName\":\"Nicks\"}" http://localhost:8080/owner```
+```
+curl --request POST --header "Content-Type: application/json" --data "{\"firstName\":\"Stevie\",\"lastName\":\"Nicks\"}" http://localhost:8080/owner
+```
 
 ### Get all owners
-```curl http://localhost:8080/owner```
+```
+curl http://localhost:8080/owner
+```
