@@ -4,4 +4,6 @@ This repository contains
 * the [presentation](presentation/presentation.pdf)
 * [the live demo](live/). The finished demo code is in branch [live-demo-finished](https://github.com/JohannesRabauer/talk-2024-spring-data-eclipse-store/tree/live-demo-finished).
 
-Blog-Article: [Minimize Costs by Utilizing Cloud Storage with Spring-Data-Eclipse-Store](https://foojay.io/today/minimize-costs-by-utilizing-cloud-storage-with-spring-data-eclipse-store/).
+## Additional resources
+* [Recording of Talk at JUG Bangalore](https://www.youtube.com/watch?v=OlGZ2Hr0FdA)
+* Blog-Article: [Minimize Costs by Utilizing Cloud Storage with Spring-Data-Eclipse-Store](https://foojay.io/today/minimize-costs-by-utilizing-cloud-storage-with-spring-data-eclipse-store/)
