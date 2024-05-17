@@ -18,6 +18,16 @@
 	</properties>
 	<dependencies>
 		<dependency>
+			<groupId>software.xdev</groupId>
+			<artifactId>spring-data-eclipse-store</artifactId>
+			<version>1.0.6</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
@@ -34,6 +44,12 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<jvmArguments>
+						--add-opens java.base/java.util=ALL-UNNAMED
+						--add-opens java.base/jdk.internal.misc=ALL-UNNAMED
+					</jvmArguments>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
