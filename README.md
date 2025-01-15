@@ -6,4 +6,5 @@ This repository contains
 
 ## Additional resources
 * [Recording of Talk at JUG Bangalore](https://www.youtube.com/watch?v=OlGZ2Hr0FdA)
+* [Recording of Talk at JCON 2024](https://youtu.be/-WBbKUGeYBw?si=utZRlY9b2twQLxW8)
 * Blog-Article: [Minimize Costs by Utilizing Cloud Storage with Spring-Data-Eclipse-Store](https://foojay.io/today/minimize-costs-by-utilizing-cloud-storage-with-spring-data-eclipse-store/)
